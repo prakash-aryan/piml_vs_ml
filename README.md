@@ -8,7 +8,9 @@ Three models are compared across three experiments:
 - **PINN** — physics-informed neural network (same architecture + thermodynamic loss terms)
 - **Hybrid PIML** — physics backbone with guaranteed monotonicity + small NN correction
 
-![Summary Dashboard](results/summary_dashboard.png)
+<p align="center">
+  <img src="results/summary_dashboard.png" alt="Summary Dashboard" width="100%">
+</p>
 
 ---
 
