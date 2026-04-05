@@ -1,6 +1,6 @@
-# ML vs Physics-Informed ML: A Comprehensive Comparison
+# ML vs Physics-Informed ML: A Comparison
 
-This project demonstrates the differences between standard machine learning and **physics-informed machine learning (PIML)** using **real data** from the [UCI Combined Cycle Power Plant dataset](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) (9,568 measurements collected from a gas turbine power plant over 6 years).
+This repo shows the differences between standard machine learning and **physics-informed machine learning (PIML)** using **data** from the [UCI Combined Cycle Power Plant dataset](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) (9,568 measurements collected from a gas turbine power plant over 6 years).
 
 Three models are compared across three experiments:
 
