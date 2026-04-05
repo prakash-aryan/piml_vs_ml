@@ -15,7 +15,11 @@ Three models are compared across three experiments:
 ## Quick Start
 
 ```bash
-# Clone and install
+# Clone the repo
+git clone https://github.com/prakash-aryan/piml_vs_ml.git
+cd piml_vs_ml
+
+# Install dependencies
 uv sync
 
 # Run all experiments (~8 minutes)
